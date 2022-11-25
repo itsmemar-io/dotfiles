@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mariolopezmtz98@gmail.com
+	name = Mario Lopez
